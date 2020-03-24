@@ -2,10 +2,6 @@
   '1.4': 'An interrupt is a mechanism by which other modules (I/O, memory) may interrupt the normal sequencing of the processor.',
   '1.5': 'Two approaches can be taken to dealing with multiple interrupts. The first is to disable interrupts while an interrupt is being processed. A second approach is to define priorities for interrupts and to allow an interrupt of higher priority to cause a lower-priority interrupt handler to be interrupted.'
 }*/
-/*stored_files = {
-  'OS Textbook': 'https://drive.google.com/open?id=1SQoa5FJs93NZTpcyNtxawcgTstxOqk5_',
-  'Thomas\' Calculus': 'https://drive.google.com/open?id=1qtoAgGu6VFwZowBMcyb49Z3UZLS6q6qD'
-}*/
 stored_files = [
   ["OS Textbook", "https://drive.google.com/open?id=1SQoa5FJs93NZTpcyNtxawcgTstxOqk5_"],
   ["Thomas' Calculus", "https://drive.google.com/open?id=1qtoAgGu6VFwZowBMcyb49Z3UZLS6q6qD"]
