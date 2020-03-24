@@ -9,7 +9,7 @@ file_urls = {
 
 const { Client } = require('libfb')
 const client = new Client()
-client.login('Myat Noe', 'kokotad456').then(() => {
+client.login(process.env.USERNAME, process.env.PASSWORD).then(() => {
   console.log('Logged in')
   client.on('message', message => {
     console.log('Got a message!')

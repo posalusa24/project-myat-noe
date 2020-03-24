@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "USERNAME": "@myat-noe-username",
+      "PASSWORD": "@myat-noe-password"
+    }
+  }
+}
