@@ -16,8 +16,7 @@ moti_strings = ["\u1010\u1005\u103A\u1014\u1031\u1037\u1010\u1005\u103A\u101C\u1
 const { Client } = require('libfb')
 const request = require('request');
 const client = new Client()
-//client.login(process.env.USERNAME, process.env.PASSWORD).then(() => {
-client.login("myat.noe.rk800", "kokotad456").then(() => {
+client.login(process.env.USERNAME, process.env.PASSWORD).then(() => {
   console.log('Logged in')
   client.on('message', message => {
     console.log("message: ")
