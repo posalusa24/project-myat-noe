@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/PosaLusa24/project-myat-noe#readme",
   "dependencies": {
-    "libfb": "^2.3.5"
+    "libfb": "^2.3.5",
+    "request": "^2.88.2"
   }
 }
