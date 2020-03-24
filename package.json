@@ -1,0 +1,19 @@
+{
+  "name": "project-myat-noe",
+  "version": "1.0.0",
+  "description": "Project Myat Noe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PosaLusa24/project-myat-noe.git"
+  },
+  "author": "PosaLusa24",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PosaLusa24/project-myat-noe/issues"
+  },
+  "homepage": "https://github.com/PosaLusa24/project-myat-noe#readme"
+}
