@@ -1,2 +1,1 @@
-# project-myat-noe
-Project Myat Noe
+# Project Myat Noe
